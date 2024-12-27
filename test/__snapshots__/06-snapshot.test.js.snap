@@ -1,0 +1,11 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`user profile matches the snapshot 1`] = `
+{
+  "createdAt": "2024-12-23T23:00:00.000Z",
+  "email": "john.doe@example.com",
+  "id": 1,
+  "isActive": true,
+  "name": "John Doe",
+}
+`;
